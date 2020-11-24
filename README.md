@@ -34,4 +34,7 @@
 -- need to upload
 ## Cviceni 9
 - Uloha 9/2b
+<p align="center">
+  <img src="figures/9-2b.png" />
+</p>
 [figures/9-2b.png](uloha)
