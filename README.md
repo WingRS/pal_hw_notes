@@ -23,10 +23,9 @@
 </p>
 - Uloha 7/6
   - looked up in the seminar, had a problem
-
-- Uloa 7/8
+- Uloha 7/8
   - nevim jestli to je vubec mozni
-- Uloa 7/11
+- Uloha 7/11
   - Obe, oni maj v sobe jenom 0. 
   Zacina se s 0 a konci se nulou.
   String jestli nemaji 11 v sobe.
