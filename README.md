@@ -22,8 +22,10 @@
   <img src="figures/7.5.jpeg" />
 </p>
 [figures/7.5.png](uloha)
+
 - Uloha 7/6
   - looked up in the seminar, had a problem
+
 - Uloa 7/8
   - nevim jestli to je vubec mozni
 - Uloa 7/11
