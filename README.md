@@ -21,8 +21,6 @@
 <p align="center">
   <img src="figures/7.5.jpeg" />
 </p>
-[figures/7.5.png](uloha)
-
 - Uloha 7/6
   - looked up in the seminar, had a problem
 
