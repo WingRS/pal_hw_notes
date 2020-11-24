@@ -2,15 +2,15 @@
 
 # Cviceni 7 :
 
-- Uloha 2b
+- Uloha 7-2b
 [figures/2b.png](uloha)
 <p align="center">
-  <img src="figures/2b.jpeg" />
+  <img src="figures/2b.png" />
 </p>
 - Uloha 7c
 [figures/7c.png](uloha)
 <p align="center">
-  <img src="figures/7c.jpeg" />
+  <img src="figures/7c.png" />
 </p>
 - Uloha  7/4
 [figures/7-4.png](uloha)
