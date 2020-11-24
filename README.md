@@ -33,7 +33,11 @@
 ## Cviceni 8
 -- need to upload
 ## Cviceni 9
-- Uloha 9/2b
+- Uloha 9/1a
+<p align="center">
+  <img src="figures/9-1a.jpeg" />
+</p>
+- Uloha 9/2a
 <p align="center">
   <img src="figures/9-2b.png" />
 </p>
