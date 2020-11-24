@@ -19,6 +19,5 @@ Obe, oni maj v sobe jenom 0.
 Zacina se s 0 a konci se nulou.
 String jestli nemaji 11 v sobe.
 
-Uloa 8/0
-
-
+Uloha 9/2b
+[figures/9-2b.png](uloha)
