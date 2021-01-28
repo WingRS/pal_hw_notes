@@ -31,7 +31,20 @@
   Zacina se s 0 a konci se nulou.
   String jestli nemaji 11 v sobe.
 ## Cviceni 8
--- need to upload
+- Uloha 8/1(a)
+<p align="center">
+  <img src="figures/8/8_1_a.jpg" />
+</p>
+- Uloha 8/1(b) - podival se na seminare, doma se me to moc nepodarilo
+- Uloha 8/2
+<p align="center">
+  <img src="figures/8/8_2.jpg" />
+</p>
+- Uloha 8/3
+<p align="center">
+  <img src="figures/8/8_3.jpg" />
+</p>
+
 ## Cviceni 9
 - Uloha 9/1a
 <p align="center">
