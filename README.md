@@ -67,5 +67,24 @@
 </p>
 [figures/9-2b.png](uloha)
 
+## Cviceni 10
+- Uloha 10/4
+<p align="center">
+  <img src="figures/10/10_4_a.jpg" />
+  <img src="figures/10/10_4_bd.jpg" />
+  <img src="figures/10/10_4_d.jpg" />
+</p>
+
+- Uloha 10/5
+<p align="center">
+  <img src="figures/10/10_5.jpg" />
+</p>
+
+- Uloha 10/6
+<p align="center">
+  <img src="figures/10/10_6.jpg" />
+</p>
+
+
 ## New tasks
 
