@@ -42,3 +42,6 @@
   <img src="figures/9-2b.png" />
 </p>
 [figures/9-2b.png](uloha)
+
+# New tasks
+
