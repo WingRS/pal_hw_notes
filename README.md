@@ -65,7 +65,7 @@
 <p align="center">
   <img src="figures/9-2b.png" />
 </p>
-[figures/9-2b.png](uloha)
+Vim ze taby byla chyba. 
 
 ## Cviceni 10
 - Uloha 10/4
