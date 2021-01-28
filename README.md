@@ -36,6 +36,7 @@
   <img src="figures/8/8_1_a.jpg" />
 </p>
 - Uloha 8/1(b) - podival se na seminare, doma se me to moc nepodarilo
+
 - Uloha 8/2
 <p align="center">
   <img src="figures/8/8_2.jpg" />
