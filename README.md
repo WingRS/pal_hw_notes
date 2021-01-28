@@ -1,6 +1,16 @@
 # pal_hw_notes
 
-# Cviceni 7 :
+## Cviceni 3
+- Uloha 3/5
+<p align="center">
+  <img src="figures/3/3_5.jpg" />
+</p>
+- Uloha 3/8
+<p align="center">
+  <img src="figures/3/3_8.jpg" />
+</p>
+
+## Cviceni 7 :
 
 - Uloha 7-2b
 [figures/2b.png](uloha)
@@ -57,5 +67,5 @@
 </p>
 [figures/9-2b.png](uloha)
 
-# New tasks
+## New tasks
 
