@@ -85,6 +85,27 @@
   <img src="figures/10/10_6.jpg" />
 </p>
 
+## Cviceni 11
+- Uloha 12/1
+<p align="center">
+  <img src="figures/11/12_1.png" />
+</p>
+
+- Uloha 12/2
+<p align="center">
+  <img src="figures/11/12_2.png" />
+  <img src="figures/11/12_2_2.png" />
+  <img src="figures/11/12_2_3.png" />
+</p>
+
+## Cviceni 12
+- Uloha 13/10
+<p align="center">
+  <img src="figures/12/13_10.png" />
+  <img src="figures/12/13_10_2.png" />
+  <img src="figures/12/13_10_3.png" />
+</p>
+
 
 ## New tasks
 
